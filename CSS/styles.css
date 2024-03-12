@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+    margin: 0;
+    color: white;
+}
+.Titulo{
+    background-color: black;
+    margin: auto;
+    margin-top: 20px;
+    height: 80;
+    width: 450px;
+    text-align: center;
+}
